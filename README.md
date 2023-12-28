@@ -1,3 +1,6 @@
+# My fork contains
+-   SNZB-02d support
+
 # Source Code Link
 
 -   [FrontEnd](https://github.com/CoolKit-Technologies/ha-addon-frontEnd)
